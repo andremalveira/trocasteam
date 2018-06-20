@@ -156,7 +156,7 @@ ul.sub-menu > li:last-child > a {
 }
 
 ul.sub-menu > li > a.parent {
-	background-image: url(../images/arrow.png);
+	background-image: url(..menu-dropdown/arrow.png);
 	background-size: 5px 9px;
 	background-repeat: no-repeat;
 	background-position: 95% center;
