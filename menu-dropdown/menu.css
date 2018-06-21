@@ -58,7 +58,7 @@ ol, ul {
 #navigation {
 	position: absolute;
 	left: 300px;
-	bottom: 0px;
+	bottom: 2px;
 }
 
 #menu-toggle {
