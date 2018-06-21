@@ -238,3 +238,85 @@ ul.sub-menu > li > a.parent {
 		background: #333 !important;
 	}
 }
+
+/*                             BARRA DE PESQUISA                             */
+
+
+#search input[type="text"] {
+font-size: 13px;
+color: #fff;
+max-width: 150px;
+padding: 5px;
+border: 1px solid #367097;
+font-family: 'Open Sans', sans-serif;
+width: 100%;
+background: #316282;
+float: left;
+border-radius: 3px 0px 0px 3px;
+height: 15px;
+margin-top: 2px;
+}
+
+
+.form-wrapper {
+width: 200px;
+float: right;
+margin-top: -48px;
+margin-left: 15px;
+}
+
+.form-wrapper input:focus {
+outline: 0;
+background: #fff;color:#666;
+box-shadow: 0 0 2px rgba(0,0,0,.5) inset;
+
+}
+
+.form-wrapper input::-webkit-input-placeholder {
+color:#171a21;
+font-weight: normal;
+font-style: italic;
+
+}
+
+.form-wrapper input:-moz-placeholder {
+color: #666;
+font-weight: normal;
+font-style: italic;
+
+}
+
+.form-wrapper input:-ms-input-placeholder {
+color: #666;
+font-weight: normal;
+font-style: italic;
+
+}   
+ 
+.form-wrapper button {
+overflow: visible;
+position: relative;
+border: 1px solid #367097;
+cursor: pointer;
+width: 30px;
+color: #222;
+-moz-transition: all 0.2s ease-in-out;
+-webkit-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out; 
+text-transform: uppercase;
+background: #54a1cb url(https://4.bp.blogspot.com/-5qoAn6KvYBo/WyM3nfzaF4I/AAAAAAAABPw/RA_CFURcKB0ykY8zwlDTuwKxdcufWgdhQCLcBGAs/s320/search.png) no-repeat center center;
+border-radius: 0 3px 3px 0;
+float: left;
+font-size: 12px;
+font-weight: bold;
+padding: 5px;
+height: 27px;
+margin-top: 2px;
+
+}   
+
+#comment-form {
+border: 1px solid #ddd;
+border-radius: 5px;
+}
