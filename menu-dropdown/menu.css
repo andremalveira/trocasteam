@@ -245,12 +245,12 @@ ul.sub-menu > li > a.parent {
 #search input[type="text"] {
 font-size: 13px;
 color: #fff;
-max-width: 150px;
+max-width: 190px;
 padding: 5px;
-border: 1px solid #367097;
-font-family: 'Open Sans', sans-serif;
+border: 1px solid #7f7f7f;
+font-family: 'Motiva Sans', Sans-serif;
 width: 100%;
-background: #316282;
+background: #9b9a9a;
 float: left;
 border-radius: 3px 0px 0px 3px;
 height: 15px;
@@ -259,7 +259,7 @@ margin-top: 2px;
 
 
 .form-wrapper {
-width: 200px;
+width: 235px;
 float: right;
 margin-top: -48px;
 margin-left: 15px;
@@ -296,7 +296,7 @@ font-style: italic;
 .form-wrapper button {
 overflow: visible;
 position: relative;
-border: 1px solid #367097;
+border: 1px solid #7f7f7f;
 cursor: pointer;
 width: 30px;
 color: #222;
@@ -305,7 +305,7 @@ color: #222;
 -o-transition: all 0.2s ease-in-out;
 transition: all 0.2s ease-in-out; 
 text-transform: uppercase;
-background: #54a1cb url(https://4.bp.blogspot.com/-5qoAn6KvYBo/WyM3nfzaF4I/AAAAAAAABPw/RA_CFURcKB0ykY8zwlDTuwKxdcufWgdhQCLcBGAs/s320/search.png) no-repeat center center;
+background: #7f7f7f url(https://4.bp.blogspot.com/-5qoAn6KvYBo/WyM3nfzaF4I/AAAAAAAABPw/RA_CFURcKB0ykY8zwlDTuwKxdcufWgdhQCLcBGAs/s320/search.png) no-repeat center center;
 border-radius: 0 3px 3px 0;
 float: left;
 font-size: 12px;
